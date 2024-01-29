@@ -13,5 +13,4 @@
 ## Resources and interesting links:
 
 - [Fundamentals of Data Engineering | Joe Reis and Matt Housley YouTube Talk](https://youtu.be/mPSzL8Lurs0?si=jBDbWBXNGrJGZv5v)
-- [ The Harsh Reality of Being a Data Engineer by Jash Radia](https://youtu.be/PZMHwRb5AAw?si=0bSZnv35g8oWl3Re) - a lot of parallels with the role of a research data steward, manager and curator
-- 
+- [ The Harsh Reality of Being a Data Engineer by Jash Radia](https://youtu.be/PZMHwRb5AAw?si=0bSZnv35g8oWl3Re) 
