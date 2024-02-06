@@ -47,3 +47,5 @@ Terraform is an open-source Infrastructure as Code (IaC) software tool created b
 
 Terraform can manage a wide variety of service providers as well as custom in-house solutions. It provides a unified view of all resources and services and an elegant way to create, change, and improve infrastructure with ease. It's widely used in automating and managing infrastructure for cloud platforms like AWS, Google Cloud, Azure, and many others.
 
+
+

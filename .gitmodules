@@ -1,3 +1,7 @@
 [submodule "data-engineering-zoomcamp"]
 	path = data-engineering-zoomcamp
 	url = https://github.com/DataTalksClub/data-engineering-zoomcamp.git
+
+[submodule "week-2_workflow-orchestration/mage-zoomcamp"]
+	path = week-2_workflow-orchestration/mage-zoomcamp
+	url = https://github.com/mage-ai/mage-zoomcamp.git

@@ -51,3 +51,8 @@ week-1_docker-sql-terraform/yellow_tripdata_2021-01.csv
 week-1_docker-sql-terraform/taxi+_zone_lookup.csv
 week-1_docker-sql-terraform/ny_taxi_postgres_data
 week-1_docker-sql-terraform/data_dictionary_trip_records_yellow.pdf
+
+
+## Ignore sensitive files
+keys/*
+variables.tf
