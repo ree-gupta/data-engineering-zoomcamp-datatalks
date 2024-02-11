@@ -30,6 +30,6 @@ def transform(data, *args, **kwargs):
 @test
 def test_output(output, *args) -> None:
     
-    snake_case_column = 'vendor_id'
+    column_name = 'vendor_id'
 
-    assert column_name in data.columns, f"Column {column_name} does not exist in DataFrame"
+    assert column_name in output.columns, f"Column {column_name} does not exist in DataFrame"
