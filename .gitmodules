@@ -5,3 +5,6 @@
 [submodule "week-2_workflow-orchestration/mage-zoomcamp"]
 	path = week-2_workflow-orchestration/mage-zoomcamp
 	url = https://github.com/mage-ai/mage-zoomcamp.git
+[submodule "workshops/workshop-2-risingwave"]
+	path = workshops/workshop-2-risingwave
+	url = https://github.com/risingwavelabs/risingwave-data-talks-workshop-2024-03-04.git
